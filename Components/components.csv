@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"RINGSender, RINGTarget",2," NeoPixel Ring 12"
+"LEDTransmission Path",1," NeoPixel Strip 16"
+"UArduino UNO",1," Arduino Uno R3"
+"U1",1," LCD 16 x 2"
+"R1",1,"1 kΩ Resistor"
+"Rpot1",1,"2 kΩ Potentiometer"
+"C1",1,"1 uF, 16 V Polarized Capacitor"
